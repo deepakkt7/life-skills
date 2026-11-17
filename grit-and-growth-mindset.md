@@ -3,29 +3,26 @@
 
 ### 1. Grit
 **Q1. Paraphrase the Grit video in 1–2 lines.**  
-Grit means staying focused on our goals and not giving up easily. Talent is important, but hard work, patience and regular effort help us achieve success.
+The property that actually matters is not talent or IQ, rather, it is grit. It helps us keep ourselves working towards the goal, endlessly, and not just for a day or a week. One more important property that actually helps us in keeping ourselves moving forward and not stopping because of failures is the growth mindset.
 
 ### 2. Introduction to Growth Mindset
 **Q2. Paraphrase the Introduction to Growth Mindset video.**  
-Growth mindset means believing that we can improve our skills and knowledge by learning and practising. We should not be afraid of making mistakes because they help us learn new things.
+There are actually two factors, belief and focus, which need to be filled with a growth mindset. This makes us ready for challenges and developing an acceptance behaviour for the feedbacks. All this, to grow.
 
 ### 3. Understanding Internal Locus of Control
 **Q3. What is Internal Locus of Control? What is the key point in the video?**  
-Internal Locus of Control means believing that our actions and efforts can affect our results. The main point is to focus on things we can control and take responsibility for our own decisions.
+Internal locus of control is a property within us that helps us in believing that whatever is happening around us is simply in our control. The things around us will respond/result in the way we believe and the work we put in. The key point in the video simply tells us that the locus of control should be more internal than external, to help us get better in any field, we expect betterment from ourselves.
 
 ### 4. How to build a Growth Mindset
 **Q4. What are the key points mentioned by the speaker to build a Growth Mindset?**  
-* Believe that you can learn and figure things out.
-* Question your thoughts and assumptions.
-* Make your own learning plan.
-* Don't give up when things become difficult.
+* Believe in yourself, not just theoretically, but even and especially at times of failure.
+* Making our own plan towards our goal, instead of letting situations deciding for us.
+* Most importantly, honouring the struggle, is the best part, which tells us not to get hostile about the journey or the process.
 
 ### 5. Mindset - A MountBlue Warrior Reference Manual
 **Q5. What are your ideas to take action and build a Growth Mindset?**  
-1. Practise coding every day and try solving new problems.
-2. Learn from my mistakes instead of feeling bad about them.
-3. Accept feedback from others and try to improve.
-4. Set small goals and complete them one by one.
-5. Ask for help when I get stuck and learn from experienced people.
-6. Keep learning new things and don't give up when something feels difficult.
+1. Keep a healthy growth mindset.
+2. Always welcome challenges, as they are the opportunity to learn and grow.
+3. Take responsibility for your own learning.
+4. Enjoy the learning path without any expectations, as this eventually leads to excellence, which leads towards success.
 
